@@ -30,7 +30,7 @@ public class ArrayKatas {
 
     /**
      * Create a static method named nullsToArbitraryStrings() that accepts an
-     * array if String objects. This array will always have five elements. The
+     * array of String objects. This array will always have five elements. The
      * method should set any null values in the provided array to any arbitrary
      * String. For example, if you receive this array:
      *
